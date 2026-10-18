@@ -1,0 +1,7 @@
+{
+  "name": "Caylee's Little Star Bureau",
+  "description": "Magical scrapbook world and star bureau of Caylee the moon-moth: explore stories, play 10 arcade games, collect wishes, and uncover celestial secrets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
